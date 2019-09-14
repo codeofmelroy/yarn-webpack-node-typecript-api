@@ -1,0 +1,8 @@
+{
+  "name": "yarn-webpack-node-typecript-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codeofmelroy/yarn-webpack-node-typecript-api.git",
+  "author": "Melroy Fernandes <melroy.fernz@gmail.com>",
+  "license": "MIT"
+}
